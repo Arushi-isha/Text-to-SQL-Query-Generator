@@ -1,7 +1,7 @@
 # Text-to-SQL-Query-Generator
 Text To SQL LLM App Along With Querying SQL Database Using Google Gemini Pro
 
-##Text-to-SQL LLM App with Google Gemini Pro
+## Text-to-SQL LLM App with Google Gemini Pro
 An end-to-end application that converts natural language queries into SQL using Google Gemini Pro, executes them against a database, and returns results. Built with Python, Streamlit, and PostgreSQL/MySQL.
 
 ## Features
